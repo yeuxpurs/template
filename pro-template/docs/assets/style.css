@@ -1,0 +1,51 @@
+:root {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+}
+
+body {
+  margin: 0;
+  background: #0b0d12;
+  color: #e8eaf0;
+}
+
+.container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 48px 20px;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 1.1;
+}
+
+.card {
+  margin-top: 28px;
+  padding: 20px;
+  border: 1px solid #2c3240;
+  border-radius: 16px;
+  background: #111522;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 14px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid #3a4256;
+  color: #e8eaf0;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #1a2033;
+}
+
+code {
+  color: #b4c7ff;
+}
+
+footer {
+  margin-top: 50px;
+  color: #9aa3b2;
+}

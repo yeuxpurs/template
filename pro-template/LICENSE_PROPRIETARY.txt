@@ -1,0 +1,26 @@
+Proprietary License (Example)
+
+Copyright (c) 2026 YOUR_NAME
+
+1) Grant of license
+You are granted a non-exclusive, non-transferable license to use, modify, and
+ship derivative works created from this template for your own projects.
+
+2) Redistribution
+You may NOT redistribute, resell, sublicense, or otherwise make this template
+(or substantially similar derivative templates) available as a competing
+starter kit or template product.
+
+3) Seats / organization use
+(Optional) Limit usage to a single individual or a single organization unless
+additional licenses are purchased.
+
+4) Support
+Support terms, if any, are defined in the purchase page.
+
+5) Warranty disclaimer
+This Software is provided "as is" without warranty of any kind.
+
+---
+
+Replace this file with the exact legal language you want to enforce.
